@@ -3394,7 +3394,6 @@ class GoogleFonts {
     var ff = fontFamily;
     fonts.forEach((key, value) {
       if(key == fontFamily || key.replaceAll(' ', '') == fontFamily){
-        print("key = $key, value = $value");
         ff = key;
       }
     });
@@ -3437,7 +3436,6 @@ class GoogleFonts {
     final fonts = _asMapOfTextThemes();
     var ff = fontFamily;
     fonts.forEach((key, value) {
-      print("key = $key, value = $value");
       if(key == fontFamily || key.replaceAll(' ', '') == fontFamily){
         ff = key;
       }
