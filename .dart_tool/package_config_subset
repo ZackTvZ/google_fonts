@@ -103,9 +103,9 @@ glob
 file:///Users/zacktvz/.pub-cache/hosted/pub.dev/glob-2.1.2/
 file:///Users/zacktvz/.pub-cache/hosted/pub.dev/glob-2.1.2/lib/
 http
-2.19
-file:///Users/zacktvz/.pub-cache/hosted/pub.dev/http-0.13.6/
-file:///Users/zacktvz/.pub-cache/hosted/pub.dev/http-0.13.6/lib/
+3.2
+file:///Users/zacktvz/.pub-cache/hosted/pub.dev/http-1.2.0/
+file:///Users/zacktvz/.pub-cache/hosted/pub.dev/http-1.2.0/lib/
 http_multi_server
 2.12
 file:///Users/zacktvz/.pub-cache/hosted/pub.dev/http_multi_server-3.2.1/

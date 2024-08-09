@@ -171,9 +171,9 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///Users/zacktvz/.pub-cache/hosted/pub.dev/http-0.13.6",
+      "rootUri": "file:///Users/zacktvz/.pub-cache/hosted/pub.dev/http-1.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.2"
     },
     {
       "name": "http_multi_server",
@@ -530,7 +530,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-08-09T03:57:40.983541Z",
+  "generated": "2024-08-09T04:04:56.312359Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }
