@@ -103,9 +103,9 @@ glob
 file:///Users/zacktvz/.pub-cache/hosted/pub.dev/glob-2.1.2/
 file:///Users/zacktvz/.pub-cache/hosted/pub.dev/glob-2.1.2/lib/
 http
-3.2
-file:///Users/zacktvz/.pub-cache/hosted/pub.dev/http-1.2.0/
-file:///Users/zacktvz/.pub-cache/hosted/pub.dev/http-1.2.0/lib/
+2.19
+file:///Users/zacktvz/.pub-cache/hosted/pub.dev/http-0.13.6/
+file:///Users/zacktvz/.pub-cache/hosted/pub.dev/http-0.13.6/lib/
 http_multi_server
 2.12
 file:///Users/zacktvz/.pub-cache/hosted/pub.dev/http_multi_server-3.2.1/
@@ -335,7 +335,7 @@ yaml
 file:///Users/zacktvz/.pub-cache/hosted/pub.dev/yaml-3.1.2/
 file:///Users/zacktvz/.pub-cache/hosted/pub.dev/yaml-3.1.2/lib/
 google_fonts
-3.2
+2.14
 file:///Users/zacktvz/Documents/flutter/google_fonts/
 file:///Users/zacktvz/Documents/flutter/google_fonts/lib/
 sky_engine
