@@ -10,8 +10,7 @@ screenshots:
    path: screenshots/hot_reload.gif
 
 environment:
- sdk: ">=2.14.0 <4.0.0"
- flutter: ">=3.7.10"
+ sdk: '>=3.2.3 <4.0.0'
 
 dependencies:
  flutter:
